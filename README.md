@@ -1,6 +1,6 @@
 # 📘 CSE221 Algorithms Theory Repository
 
-This repository contains **lecture notes, assignments, problem discussions, and study materials** from my **CSE221 — Algorithms (Theory)** course at **BRAC University**.
+This repository contains **lecture notes, assignments, problem discussions, and study materials** from my **CSE221 — Algorithms (Theory)** course in Summer25 at **BRAC University**.
 
 ---
 
